@@ -76,7 +76,7 @@ namespace Banco_de_Dados
             funcionario.cpf + "," + funcionario.religiao + "," + funcionario.telefone + "," + 
             funcionario.celular + "," + funcionario.pais + "," + funcionario.sexo + "," + funcionario.estado_civil;*/
             AtualizarInformacoes();
-            System.IO.File.WriteAllLines(@"C:\Users\Matheus\Desktop\Banco_de_Dados\Informações.txt", todas_informacoes);
+            System.IO.File.WriteAllLines(@"C:\Users\Matheus\Desktop\Informações.txt", todas_informacoes);
         }
 
         private void Remover(object sender, EventArgs e)
@@ -123,7 +123,7 @@ namespace Banco_de_Dados
 
         private void Selecionar_funcionario(object sender, EventArgs e)
         {
-            int index = funcionarios_lista.SelectedIndex;
+            /*int index = funcionarios_lista.SelectedIndex;
             if (index >= 0)
             {
                 Funcionario f = pegar_Index(index);
@@ -140,11 +140,11 @@ namespace Banco_de_Dados
             telefone.Text = f.telefone;
             celular.Text = f.celular;
             pais.Text = f.pais;
-            rg.Text = f.rg;
+            rg.Text = f.rg;*/
         }
-        private Funcionario pegar_Index(int index)
-        {
-            return funcionarios.ElementAt(index);
-        }
+        //private Funcionario pegar_Index(int index)
+        //{
+            //return funcionarios.ElementAt(index);
+        //}
     }
 }
