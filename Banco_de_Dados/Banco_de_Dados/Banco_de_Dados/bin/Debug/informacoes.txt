@@ -1,0 +1,5 @@
+antoanne#professor#32#masculino#Rua dois de fevereiro,990,apto303#123#456#789#batista#casado(a)#39998976#978986787#Brasil#1#B-#
+jamv#professor#35#masculino#Rua da tijuca,990,apto202#321#654#987#espirita#casado(a)#27713631#966856754#Brasil#0#A+#
+beatriz#estudante#15#feminino#Rua dois de fevereiro,990,apto302#123#456#789#batista#solteiro(a)#38990875#989978675#Brasil#0#B+#
+maneivos#estudante#16#masculino#Rua la na tijuca,930#123234#456432#789234#UDV#solteiro(a)#32717074#981384516#Brasil#0#AB+#
+JackBlack#musico#46#masculino#United States#13453423#434534556#734534589#Judeu#solteiro(a)#31313131#945768987#USA#0#O+#
