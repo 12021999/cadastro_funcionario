@@ -115,3 +115,12 @@ C:\Users\Matheus\Desktop\Banco_de_Dadosv1.8\Banco_de_Dados\Banco_de_Dados\Banco_
 C:\Users\Matheus\Desktop\Banco_de_Dadosv1.8\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.funcoes.resources
 C:\Users\Matheus\Desktop\Banco_de_Dadosv1.8\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.Properties.Resources.resources
 C:\Users\Matheus\Desktop\Banco_de_Dadosv1.8\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\GitHub\cadastro_funcionario\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\bin\Debug\Banco_de_Dados.exe.config
+C:\Users\Matheus\Documents\GitHub\cadastro_funcionario\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.exe
+C:\Users\Matheus\Documents\GitHub\cadastro_funcionario\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.pdb
+C:\Users\Matheus\Documents\GitHub\cadastro_funcionario\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\bin\Debug\Banco_de_Dados.exe
+C:\Users\Matheus\Documents\GitHub\cadastro_funcionario\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\bin\Debug\Banco_de_Dados.pdb
+C:\Users\Matheus\Documents\GitHub\cadastro_funcionario\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\GitHub\cadastro_funcionario\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.funcoes.resources
+C:\Users\Matheus\Documents\GitHub\cadastro_funcionario\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.Properties.Resources.resources
+C:\Users\Matheus\Documents\GitHub\cadastro_funcionario\Banco_de_Dados\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.csproj.GenerateResource.Cache

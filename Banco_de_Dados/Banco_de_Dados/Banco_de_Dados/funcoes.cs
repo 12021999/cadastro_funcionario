@@ -386,7 +386,11 @@ namespace Banco_de_Dados
             informacoes += todas_informacoes[12] + "#";
             informacoes += todas_informacoes[13] + "#";
             informacoes += todas_informacoes[14] + "#";
-            System.IO.File.WriteAllLines("./informacoes.txt", new string[] { informacoes });
+           // System.IO.File.WriteAllLines("./informacoes.txt", new string[] { informacoes });
+            using (System.IO.StreamWriter file = new System.IO.StreamWriter("./informacoes2.txt", true))
+            {
+                System.IO.File.WriteAllLines("./informacoes2.txt", new string[] { informacoes });
+            }
             Application.Exit();
         }
 
